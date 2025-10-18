@@ -34,5 +34,4 @@ Each required element includes its corresponding `data-testid`:
 1. Clone or download the project.
 2. Open `index.html` in your browser.
 3. The card will display all required information and show the current time in milliseconds.  
-**Deadline:** October 19, 2025
 
